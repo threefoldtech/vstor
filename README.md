@@ -1,19 +1,12 @@
 
 ## to install
 
-```bash
-v install https://github.com/...
-```
-> TODO:
+see https://github.com/despiegk/gridstarter
+
+follow the instructions there, it will also install this repo
 
 ## to develop
 
-> TODO:
-
-- do ```v install https://github.com/freeflowuniverse/...```
-- edit the code there
-- use `v run test.v` to run some ad hoc tests
-- use `v test vredis2/` to run tests of one module
 
 ## generating docs
 
